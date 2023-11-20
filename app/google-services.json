@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "235281135750",
+    "firebase_url": "https://midmobile-5730a-default-rtdb.firebaseio.com",
+    "project_id": "midmobile-5730a",
+    "storage_bucket": "midmobile-5730a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235281135750:android:4b6322d0d16e44a613b907",
+        "android_client_info": {
+          "package_name": "com.example.lab_5_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLXOg-0TKd8IQrPgIXt_GAMKJgE8-PLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
